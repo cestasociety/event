@@ -9,7 +9,7 @@
                                                 █▄▄ █▄█   █▀▀ █▀▀ █▀ ▀█▀ ▄▀█
                                                 █▄█ ░█░   █▄▄ ██▄ ▄█ ░█░ █▀█
 
-                                                
+
 ## CESTA presents **👩‍💻Hackathon👨‍💻**
 
 Hi from CESTA. How's going? Hope you are good. We accepted the fate that corona is a NEW YEAR lover and follows new year resolution - "To change every new year"
@@ -44,11 +44,13 @@ You need to find solution then submit it in a template you will find here, conve
 - If you solution must qualifies as a flowchart to understand and implement easily. You also need to attach that flow chart. (In some rare case 1 in 100. Some solution doesn't require flowchart.)
 - The solution must not exceed 1 page. And 2 page must include implementations and flowchart [and optional success story].
 - **Whole solution must be in 2 pages.** Additional pages like cover pages and Resource tables may be added.
+- I have added template which can be downloaded below. You need follow it. You can make your own. But It must contain the basic template.
 
 ### Prizes
 A special badge for top 3 teams(each individuals receive one). And participation badge for everyone who submit and present.
 
 ### Resources
  - Google form link of submission - [Registration + Submission](https://forms.gle/F9TyeivZSqF2Ri4SA)
+ - Template - [Download here](https://github.com/cestasociety/event/blob/main/src/template.pdf?raw=true)
 
 Last updated - Jan 8 18:08
