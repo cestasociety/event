@@ -32,7 +32,7 @@ You need to find solution then submit it in a template you will find here, conve
  5. Our college is fully covered in different WIFI hotsopts at different places. As I student I want to use LAN to move data and make it available everywhere as same WIFI is divided into different subnet. The goal is to implement robust infrastructure to current WiFi network to make LAN accessible at any place. Please implement realworld networking like hybrid topography. Which is easy to implement. Map to implement is here. [This is the map.](https://github.com/cestasociety/event/blob/main/src/wifi.jpg?raw=true)
 
 ### Rules (IMPORTANT)
-- You can have 3 members in a Team
+- You can have 3 members maximum in a Team.
 - You need to submit before 15 JAN at any cost.
 - Your submission need to be practical and should be feasible in real-world. If it require complex implement yet feasible, please explain in details
 - Please use the template. As this helps us to understand faster.
