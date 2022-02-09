@@ -1,24 +1,3 @@
-<head><title>Gamescon - Events | CESTA</title>
-  <!--Basic Meta tag-->
-  <meta charset="UTF-8"><meta name="google" content="notranslate">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="keywords" content="Gamescon, Events, CESTA"/>
-  <meta name="description" content="Checkout out latest eventlists and leaderboards, Most important it contain the latest and most comprehensive details you want to check."/>
-  <meta name="author" content="Abhay Kumar Verma">
-  <!-- Google / Search Engine Tags -->
-  <meta itemprop="name" content="Gamescon - Events | CESTA">
-  <meta itemprop="description" content="Checkout out latest eventlists and leaderboards, Most important it contain the latest and most comprehensive details you want to check.">
-  <meta itemprop="image" content="/static/img/favicon.png">
-  <!--Icons are here-->
-  <link rel="shortcut icon" href="/static/img/favicon.png" type="image/x-icon">
-  <link rel="icon" href="/static/img/favicon.png" sizes="32x32" type="image/png">
-  <link rel="apple-touch-icon-precomposed" href="/static/img/favicon.png" type="image/png" sizes="152x152">
-  <link rel="apple-touch-icon-precomposed" href="/static/img/favicon.png" type="image/png" sizes="120x120">
-  <link rel="icon" href="/static/img/favicon.png" sizes="96x96" type="image/png">
-  <!--icons ends here-->
-
-
 ░██████╗░░█████╗░███╗░░░███╗███████╗░██████╗░█████╗░░█████╗░███╗░░██╗
 ██╔════╝░██╔══██╗████╗░████║██╔════╝██╔════╝██╔══██╗██╔══██╗████╗░██║
 ██║░░██╗░███████║██╔████╔██║█████╗░░╚█████╗░██║░░╚═╝██║░░██║██╔██╗██║
@@ -28,6 +7,8 @@
 
                                                 █▄▄ █▄█   █▀▀ █▀▀ █▀ ▀█▀ ▄▀█
                                                 █▄█ ░█░   █▄▄ ██▄ ▄█ ░█░ █▀█
+
+
 
 
 ## CESTA presents **👩‍💻Gamescon👨‍💻**
@@ -43,7 +24,7 @@ Gamescon is a collection of gaming event organized by [CESTA](https://cesta-soci
  - [COD - Call of Duty Mobile](https://my.callofduty.com/content/atvi/callofduty/mobile/web/en/home.html) - **Must have 4 player per team**
 
 <p align="center">
-<img src="../../blob/main/src/poster1.webp" alt="poster1 of CESTA">
+<img src="https://github.com/cestasociety/event/blob/main/src/poster1.webp?raw=true" alt="poster1 of CESTA">
 </p>
 
 --------
@@ -57,7 +38,7 @@ Gamescon is a collection of gaming event organized by [CESTA](https://cesta-soci
 ### List of the verified player.
 
 **BGMI - battlegroundsmobileindia**
-The list of approved teams with teammate names - https://drive.google.com/file/d/1Dy3xlO7_tmByvtY1jprZzWSEWDyNinJk/view?usp=sharing
+The list of approved teams with teammate names - [Verified list](https://docs.google.com/spreadsheets/d/1dXhRj8LbZ0ZNGfRG88K_S8yUtQkflNj0rhhvUtg8Krg/edit#gid=0)
 
 **LUDO**
 The list of approved teams with teammates will be announced soon.
@@ -73,7 +54,7 @@ ANY query regarding about slots please come on discord. We are happy to help.
 ------
 
 ### TIMES AND DATES
-- 10th Feb BGMI championship 🏆
+- 10th Feb BGMI championship 🏆 - 10 AM onward.
 - 11th Feb IDEATHONE + LUDO championship🃏
 - 12th Feb COD championships 👨‍💻
 
@@ -83,9 +64,33 @@ Most of the event will happen on **Online mode 10 to 12.**
 
 ### Flow of Events
 
-FOR **BGMI AND COD** When event starts you all are given Room ID and password. **You all need to go to exact slot as specified in the above approved list.** Failing to do so will just delay the game. After verifying event will be start. STREAMS on discords.
+ - FOR **BGMI** When event starts you all are given Room ID and password. **You all need to go to exact slot as specified in the above approved list.** Failing to do so will just delay the game. After verifying event will be start.
+- STREAMS on discords.
 
-For LUDO and ideathon more info will be released as soon as verified list is generated.
+#### How game will flow LEVEL 1
+   - GAME A will start after 10 AM.
+   - Room ID for will be shared to everyone by 10:20 AM
+   - **TOTAL 16 TEAM IN GAME A** will complete with each other **2 times**
+   - SAME FOR **GAME B AFTER GAME A FINISHED**
+
+
+   - THEN, TOP 15 TEAM will go to NEXT LEVEL. LEVEL 2.
+   - ALL **LEVEL 2 qualifer will play 2 mathced**
+   - TOP TEAM WINNS.
+
+##### MAPS
+ - LEVEL 1 - erangle, sanhok (normal without event) (total 2 matches)
+ - LEVEL 2 - erangle, sanhok, erangle (normal without event) (total 3 matches.)
+
+##### RANKS calculation
+  - Every Kills - 1 points.
+  - Most important this point see the picture below
+  - <img src="https://github.com/cestasociety/event/blob/main/src/pubg.webp?raw=true" alt="poster1 of CESTA">
+  - Both above point will be added to calculate the match at any point.
+
+  - Still confused contact support on discord.
+
+
 
 JOIN discord - https://discord.gg/3BTY644t
 
