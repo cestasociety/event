@@ -62,11 +62,11 @@ Most of the event will happen on **Online mode 10 to 12.**
 
 -----
 
-## Pubg score is updating live. 
- - [Live SCORE](https://docs.google.com/spreadsheets/d/1dXhRj8LbZ0ZNGfRG88K_S8yUtQkflNj0rhhvUtg8Krg/edit#gid=0)
+## Pubg score finals will be released soon
+ - [OLD SCORE](https://docs.google.com/spreadsheets/d/1dXhRj8LbZ0ZNGfRG88K_S8yUtQkflNj0rhhvUtg8Krg/edit#gid=0)
 
- 
- 
+
+
 -----
 
 ### Flow of Events
@@ -94,6 +94,36 @@ Most of the event will happen on **Online mode 10 to 12.**
   - Most important this point see the picture below
   - <img src="https://github.com/cestasociety/event/blob/main/src/pubg.webp?raw=true" alt="poster1 of CESTA">
   - Both above point will be added to calculate the match at any point.
+
+## For LUDO(SOLO only)
+##### LEVEL 1
+ - random 4 player will make bucket and bucket will be shared with you.
+ - 3 match to qualify only.
+ - All top 2 player of each bucket will go to LEVEL 2.
+
+##### LEVEL 2
+ - LEVEL 2 will only have single knock out match!
+ - 1 player will go to next round. TILL WINNERS
+
+#### RULES FOR LUDO!
+ - **TIME LIMIT OF 18 mins** - EXCEPT FEW!
+ - NO HACKS!, If found cheating will be banned
+
+- VERIFIED LIST - [LUDO](https://docs.google.com/spreadsheets/d/1iI6IZfh3kM_ZQ2FoKQ9xHVd2AQHJwv8aUM2hMOMsvIg/edit#gid=0)
+
+
+## IDEATHONE (DUO/SOLO)
+  - Ideathon will be help on google meet. Link will be shared on whatsapp and discord
+  - You need to showcase your ideas
+  - 4 JUDGES will be there, 2 Teachers, 2 subject mater experts
+  - You have 5 mins to explain your ideas and 5 mins to answer the questions
+  - Marks are based on performance.
+
+
+
+  - VERIFIED LIST - [ideathon](https://docs.google.com/spreadsheets/d/1jhD-sMnXGNH-qW8x3oQrCyd653wTgA_6rGUqjtszzkk/edit#gid=0)
+
+
 
   - Still confused contact support on discord.
 
