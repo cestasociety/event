@@ -62,6 +62,13 @@ Most of the event will happen on **Online mode 10 to 12.**
 
 -----
 
+## Pubg score is updating live. 
+ - [Live SCORE](https://docs.google.com/spreadsheets/d/1dXhRj8LbZ0ZNGfRG88K_S8yUtQkflNj0rhhvUtg8Krg/edit#gid=0)
+
+ 
+ 
+-----
+
 ### Flow of Events
 
  - FOR **BGMI** When event starts you all are given Room ID and password. **You all need to go to exact slot as specified in the above approved list.** Failing to do so will just delay the game. After verifying event will be start.
